@@ -1,0 +1,40 @@
+body {
+    background-color: #7a6465;
+    text-align: center;
+
+}
+
+section {
+    background-color: #cc868a;
+    width: 450px;
+    height: 250px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 300px;
+    color: #dcddab;
+    border-bottom: solid 4px;
+
+}
+
+.line {
+    width: 420px;
+    height: 2px;
+    background-color: #dcddab;
+    margin-left: 20px;
+    /*margin-top: -20px;*/
+    top: 5px;
+
+}
+
+h1 {
+padding-top: 30px;
+}
+
+h1 span {
+    text-transform: uppercase;
+}
+
+img {
+    border-radius: 100%;
+    border: solid 5px;
+}
